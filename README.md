@@ -2,7 +2,7 @@ Reddit CLI
 
 - Installation
 
->> npm install reddit
+>> npm i cristina-reddit-cli
 
 - Commands
 
